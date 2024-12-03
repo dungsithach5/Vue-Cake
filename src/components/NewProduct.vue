@@ -15,7 +15,7 @@
                 <div class="single-item-body">
                     <p class="single-item-title">{{ product.name }}</p>
                     <p class="single-item-price">
-                    <span>{{ product.description }}</span>
+                    <!-- <span>{{ product.description }}</span> -->
                     </p>
                 </div>
                 <div class="single-item-caption">

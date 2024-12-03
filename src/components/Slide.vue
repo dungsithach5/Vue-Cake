@@ -39,7 +39,7 @@
                                         data-bgrepeat="no-repeat"
                                         data-lazydone="undefined"
                                         :style="{
-                                            backgroundImage: `url(../image/slide/${product.image})`,
+                                            backgroundImage: `url(/src/image/slide/${product.image})`,
                                             backgroundColor: 'rgba(0, 0, 0, 0)',
                                             backgroundRepeat: 'no-repeat',
                                             backgroundSize: 'cover',
